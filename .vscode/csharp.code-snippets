@@ -1,0 +1,22 @@
+{
+  "C# Class with Namespace": {
+    "scope": "csharp",
+    "prefix": "cclass",
+    "body": [
+      "using System;",
+      "",
+      "namespace ${1:PracticeDataStructAndALgo.${TM_DIRECTORY/(.*\\/(.*))/$2/}}",
+      "{",
+      "    public ${2:class} ${3:ClassName}",
+      "    {",
+      "        public ${3:ClassName}()",
+      "        {",
+      "        }",
+      "",
+      "        $0",
+      "    }",
+      "}"
+    ],
+    "description": "Scaffold a C# class with namespace resolved from folder name"
+  }
+}
