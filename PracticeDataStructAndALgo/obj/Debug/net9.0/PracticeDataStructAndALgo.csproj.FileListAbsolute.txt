@@ -1,0 +1,15 @@
+/Users/chamodrathnayake/Documents/Projects/Test/PracticeDataStructAndALgo/PracticeDataStructAndALgo/bin/Debug/net9.0/PracticeDataStructAndALgo
+/Users/chamodrathnayake/Documents/Projects/Test/PracticeDataStructAndALgo/PracticeDataStructAndALgo/bin/Debug/net9.0/PracticeDataStructAndALgo.deps.json
+/Users/chamodrathnayake/Documents/Projects/Test/PracticeDataStructAndALgo/PracticeDataStructAndALgo/bin/Debug/net9.0/PracticeDataStructAndALgo.runtimeconfig.json
+/Users/chamodrathnayake/Documents/Projects/Test/PracticeDataStructAndALgo/PracticeDataStructAndALgo/bin/Debug/net9.0/PracticeDataStructAndALgo.dll
+/Users/chamodrathnayake/Documents/Projects/Test/PracticeDataStructAndALgo/PracticeDataStructAndALgo/bin/Debug/net9.0/PracticeDataStructAndALgo.pdb
+/Users/chamodrathnayake/Documents/Projects/Test/PracticeDataStructAndALgo/PracticeDataStructAndALgo/obj/Debug/net9.0/PracticeDataStructAndALgo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chamodrathnayake/Documents/Projects/Test/PracticeDataStructAndALgo/PracticeDataStructAndALgo/obj/Debug/net9.0/PracticeDataStructAndALgo.AssemblyInfoInputs.cache
+/Users/chamodrathnayake/Documents/Projects/Test/PracticeDataStructAndALgo/PracticeDataStructAndALgo/obj/Debug/net9.0/PracticeDataStructAndALgo.AssemblyInfo.cs
+/Users/chamodrathnayake/Documents/Projects/Test/PracticeDataStructAndALgo/PracticeDataStructAndALgo/obj/Debug/net9.0/PracticeDataStructAndALgo.csproj.CoreCompileInputs.cache
+/Users/chamodrathnayake/Documents/Projects/Test/PracticeDataStructAndALgo/PracticeDataStructAndALgo/obj/Debug/net9.0/PracticeDataStructAndALgo.sourcelink.json
+/Users/chamodrathnayake/Documents/Projects/Test/PracticeDataStructAndALgo/PracticeDataStructAndALgo/obj/Debug/net9.0/PracticeDataStructAndALgo.dll
+/Users/chamodrathnayake/Documents/Projects/Test/PracticeDataStructAndALgo/PracticeDataStructAndALgo/obj/Debug/net9.0/refint/PracticeDataStructAndALgo.dll
+/Users/chamodrathnayake/Documents/Projects/Test/PracticeDataStructAndALgo/PracticeDataStructAndALgo/obj/Debug/net9.0/PracticeDataStructAndALgo.pdb
+/Users/chamodrathnayake/Documents/Projects/Test/PracticeDataStructAndALgo/PracticeDataStructAndALgo/obj/Debug/net9.0/PracticeDataStructAndALgo.genruntimeconfig.cache
+/Users/chamodrathnayake/Documents/Projects/Test/PracticeDataStructAndALgo/PracticeDataStructAndALgo/obj/Debug/net9.0/ref/PracticeDataStructAndALgo.dll
