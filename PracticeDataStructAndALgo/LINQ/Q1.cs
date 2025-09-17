@@ -4,6 +4,11 @@ using System.Linq;
 
 namespace PracticeDataStructAndALgo.LINQ
 {
+    //     You are given two collections:
+    // A list of students, each with Id, Name, and Age.
+    // A list of enrollments, each with a StudentId and CourseName.
+    // 👉 Write a LINQ query using Join() to return the list of students with the courses they are enrolled in.
+    // Only include students who have at least one course.
     public static class Q1
     {
         public class Student
@@ -35,7 +40,16 @@ namespace PracticeDataStructAndALgo.LINQ
                 new Enrollment { StudentId = 2, CourseName = "Biology" }
             };
 
-            Console.WriteLine("From Q1");
+            var studentEnrollments = students
+                .Join(enrollments,
+                    s => s.Id,
+                    e => e.StudentId,
+                    (s, e) => new { StudentName = s.Name, Course = e.CourseName });
+
+            foreach (var item in studentEnrollments)
+                Console.WriteLine($"Name: {item.StudentName}, Enrolled in: {item.Course}");
+
+
         }
     }
 }

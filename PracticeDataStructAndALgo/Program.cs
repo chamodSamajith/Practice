@@ -9,10 +9,7 @@ namespace PracticeDataStructAndALgo
         static void Main(string[] args)
         {
 
-            // L.Q1.Solve();
-            T.Q1.SolveStackOne();
-
-           
+            L.Q1.Solve();
         }
     }
 }

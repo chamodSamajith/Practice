@@ -19,4 +19,39 @@
     ],
     "description": "Scaffold a C# class with namespace resolved from folder name"
   }
+  ,
+  "C# Class Basic": {
+    "scope": "csharp",
+    "prefix": "cclass_basic",
+    "body": [
+      "using System;",
+      "",
+      "namespace PracticeDataStructAndALgo.Tests",
+      "{",
+      "    public class ${1:ClassName}",
+      "    {",
+      "        public ${1:ClassName}() { }",
+      "        $0",
+      "    }",
+      "}"
+    ],
+    "description": "Basic C# class (test snippet)"
+  },
+  "C# Class Prompt Namespace": {
+    "scope": "csharp",
+    "prefix": "cclass_prompt",
+    "body": [
+      "using System;",
+      "",
+      "namespace ${1:PracticeDataStructAndALgo.${2:FolderName}}",
+      "{",
+      "    public class ${3:ClassName}",
+      "    {",
+      "        public ${3:ClassName}() { }",
+      "        $0",
+      "    }",
+      "}"
+    ],
+    "description": "Prompt for namespace parts and class name"
+  }
 }
