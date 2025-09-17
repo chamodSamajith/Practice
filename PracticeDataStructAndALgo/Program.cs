@@ -1,5 +1,6 @@
 ﻿using L = PracticeDataStructAndALgo.LINQ;
 using S = PracticeDataStructAndALgo.SlidingWindow;
+using T = PracticeDataStructAndALgo.StackAndQueue;
 
 namespace PracticeDataStructAndALgo
 {
@@ -7,11 +8,11 @@ namespace PracticeDataStructAndALgo
     {
         static void Main(string[] args)
         {
-            // Example: call LINQ Q1
-            L.Q1.Solve();
 
-            // Example: call SlidingWindow Q1
-            // S.Q1.Solve();
+            // L.Q1.Solve();
+            T.Q1.SolveStackOne();
+
+           
         }
     }
 }
