@@ -15,12 +15,6 @@ namespace PracticeDataStructAndALgo.TwoPointers
             // (-2, 7)
             // (0, 5)
             // (2, 3)
-            //test
-            //test 2 , 8
-            //test
-            //test commit
-            //test commit
-            //new
         }
 
     }
