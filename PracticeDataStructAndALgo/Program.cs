@@ -9,7 +9,7 @@ namespace PracticeDataStructAndALgo
         static void Main(string[] args)
         {
 
-            S.Q2.Run();
+            L.Q6.Run();
         }
     }
 }
