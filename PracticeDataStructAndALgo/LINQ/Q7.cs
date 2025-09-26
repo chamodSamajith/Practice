@@ -48,6 +48,18 @@ namespace PracticeDataStructAndALgo.LINQ
                     }
                 }
             };
+            //find the top 2 authors across all libraries who sold the most total copies of all their books combined.
+            //Return the author name and the total copies sold.
+            //Expected output
+            // Alice - 1800
+            // Bob - 700
+
+            var topAuthors = libraries
+            .SelectMany(o => o.Books, (o, book) => new { author = book.Author, copies = book.CopiesSold })
+            .GroupBy(d => d.author).Select(d => new { author = d.Key, copies = d.Sum(d => d.copies) }).OrderByDescending(d => d.copies).Take(2);
+
+            foreach (var i in topAuthors)
+                Console.WriteLine($"{i.author} - {i.copies}");
 
         }
 

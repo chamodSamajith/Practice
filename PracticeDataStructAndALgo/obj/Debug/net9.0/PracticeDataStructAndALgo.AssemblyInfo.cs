@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PracticeDataStructAndALgo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e5e8cadf78e33b851eb6b5e5be1140b0aa0333b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b42493b1f3d41d42bfa5faad359ce9d64560757")]
 [assembly: System.Reflection.AssemblyProductAttribute("PracticeDataStructAndALgo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PracticeDataStructAndALgo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
