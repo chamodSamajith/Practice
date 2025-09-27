@@ -10,10 +10,8 @@ namespace PracticeDataStructAndALgo
         static void Main(string[] args)
         {
 
-            var pairs = P.Q2.Run();
-            foreach (var i in pairs) {
-                Console.WriteLine($"{i.Item1},{i.Item2}");
-            }
+            S.Q3.subarray([2, 1, 5, 1, 3, 2],3);
+        
         }
     }
 }
